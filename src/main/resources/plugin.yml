@@ -1,0 +1,7 @@
+name: ZenithBowKB
+version: "${project.version}"
+main: dev.amargos.zenithmc.ZenithBowKB
+authors: [Amargos]
+description: A bow boosting plugin that allows for perfectly straight boosting with customizable velocities.
+commands:
+  zenithbowkb:
